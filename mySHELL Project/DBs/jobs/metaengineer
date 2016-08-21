@@ -1,0 +1,4 @@
+id:int:primary key
+fname:string
+add:string
+phone:int

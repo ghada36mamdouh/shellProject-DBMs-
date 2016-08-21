@@ -1,0 +1,10 @@
+
+ MySHELLProject 
+
+ 1-creat dir my project inside it (DBsMetaData file ,DBs dir , main page[script])
+             [root@localhost mySHELL Project]# touch mainPage.sh
+             [root@localhost mySHELL Project]# chmod +x mainPage.sh
+ 2- read user ,pass create file about user login info to add users also 
+    put 3 users and their pass 
+    
+ 3-

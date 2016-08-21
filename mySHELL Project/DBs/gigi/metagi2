@@ -1,0 +1,4 @@
+id:int:primary key
+name:string
+job:string
+add:string
